@@ -2,13 +2,10 @@
 
 ## <p align=center>Pesquisador Projeto SATSAR</p>
 
-#### :runner: Experiência
->- 2016-2021 - 
-
-
 #### :school: Formação Acadêmica
->- MS(2013): Ciência & Tecnologia Ambiental
->- BS(2005): Ciências Biológicas
+>- Dr (2019): Ciência & Tecnologia Ambiental
+>- M.Sc (2013): Ciência & Tecnologia Ambiental
+>- B.Sc (2005): Ciências Biológicas
 
 #### :mag: Contato
 >- E-mail: josefaccin@gmail.com
