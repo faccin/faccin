@@ -1,16 +1,16 @@
-### Hi there 👋
+# <p align=center>JOSÉ RICARDO M. FACCIN</p>
 
-<!--
-**faccin/faccin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <p align=center>Pesquisador Projeto SATSAR</p>
 
-Here are some ideas to get you started:
+#### :runner: Experiência
+>- 2016-2021 - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### :school: Formação Acadêmica
+>- MS(2013): Ciência & Tecnologia Ambiental
+>- BS(2005): Ciências Biológicas
+
+#### :mag: Contato
+>- E-mail: josefaccin@gmail.com
+
+
