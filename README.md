@@ -1,6 +1,6 @@
 # <p align=center>JOSÉ RICARDO M. FACCIN</p>
 
-## <p align=center>Pesquisador Projeto SATSAR</p>
+
 
 #### :school: Formação Acadêmica
 >- Dr (2019): Ciência & Tecnologia Ambiental
