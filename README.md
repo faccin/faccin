@@ -3,6 +3,7 @@
 
 
 #### :school: Formação Acadêmica
+>- Esp. (2022-atual): MBA Data Science & Analytics
 >- Dr (2019): Ciência & Tecnologia Ambiental
 >- M.Sc (2013): Ciência & Tecnologia Ambiental
 >- B.Sc (2005): Ciências Biológicas
